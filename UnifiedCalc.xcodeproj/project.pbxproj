@@ -1,0 +1,401 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		2347A4EB2FE977D900F3F5B5 /* CalculatorController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2347A4EA2FE977D900F3F5B5 /* CalculatorController.m */; };
+		2347A4EC2FE977D900F3F5B5 /* CalculatorController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2347A4EA2FE977D900F3F5B5 /* CalculatorController.m */; };
+		2347A4F12FE9784E00F3F5B5 /* UntitledIpodAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2347A4EE2FE9784E00F3F5B5 /* UntitledIpodAppDelegate.m */; };
+		2347A4F22FE9784E00F3F5B5 /* UntitledIpodViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2347A4F02FE9784E00F3F5B5 /* UntitledIpodViewController.m */; };
+		2347A4F42FE9785500F3F5B5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2347A4F32FE9785500F3F5B5 /* main.m */; };
+		2347A4F82FE9787B00F3F5B5 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2347A4F52FE9787B00F3F5B5 /* InfoPlist.strings */; };
+		2347A4F92FE9787B00F3F5B5 /* MainMenu.nib in Resources */ = {isa = PBXBuildFile; fileRef = 2347A4F62FE9787B00F3F5B5 /* MainMenu.nib */; };
+		2347A4FA2FE9787B00F3F5B5 /* MainMenu~.nib in Resources */ = {isa = PBXBuildFile; fileRef = 2347A4F72FE9787B00F3F5B5 /* MainMenu~.nib */; };
+		2347A4FC2FE9789000F3F5B5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2347A4FB2FE9789000F3F5B5 /* main.m */; };
+		2347A5002FE978AC00F3F5B5 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 2347A4FD2FE978AC00F3F5B5 /* Icon.png */; };
+		2347A5012FE978AC00F3F5B5 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2347A4FE2FE978AC00F3F5B5 /* MainWindow.xib */; };
+		2347A5022FE978AC00F3F5B5 /* UntitledIpodViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2347A4FF2FE978AC00F3F5B5 /* UntitledIpodViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		2347A4E32FE9778E00F3F5B5 /* ShittyCalculator-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "ShittyCalculator-Info.plist"; sourceTree = "<group>"; };
+		2347A4E52FE9779700F3F5B5 /* ShitCalc-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "ShitCalc-Info.plist"; sourceTree = "<group>"; };
+		2347A4E92FE977D900F3F5B5 /* CalculatorController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CalculatorController.h; sourceTree = "<group>"; };
+		2347A4EA2FE977D900F3F5B5 /* CalculatorController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CalculatorController.m; sourceTree = "<group>"; };
+		2347A4ED2FE9784E00F3F5B5 /* UntitledIpodAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UntitledIpodAppDelegate.h; path = iPhone/UntitledIpodAppDelegate.h; sourceTree = "<group>"; };
+		2347A4EE2FE9784E00F3F5B5 /* UntitledIpodAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UntitledIpodAppDelegate.m; path = iPhone/UntitledIpodAppDelegate.m; sourceTree = "<group>"; };
+		2347A4EF2FE9784E00F3F5B5 /* UntitledIpodViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UntitledIpodViewController.h; path = iPhone/UntitledIpodViewController.h; sourceTree = "<group>"; };
+		2347A4F02FE9784E00F3F5B5 /* UntitledIpodViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UntitledIpodViewController.m; path = iPhone/UntitledIpodViewController.m; sourceTree = "<group>"; };
+		2347A4F32FE9785500F3F5B5 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = iPhone/main.m; sourceTree = "<group>"; };
+		2347A4F52FE9787B00F3F5B5 /* InfoPlist.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = InfoPlist.strings; path = Mac/InfoPlist.strings; sourceTree = "<group>"; };
+		2347A4F62FE9787B00F3F5B5 /* MainMenu.nib */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = MainMenu.nib; path = Mac/MainMenu.nib; sourceTree = "<group>"; };
+		2347A4F72FE9787B00F3F5B5 /* MainMenu~.nib */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = "MainMenu~.nib"; path = "Mac/MainMenu~.nib"; sourceTree = "<group>"; };
+		2347A4FB2FE9789000F3F5B5 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = Mac/main.m; sourceTree = "<group>"; };
+		2347A4FD2FE978AC00F3F5B5 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Icon.png; path = iPhone/Icon.png; sourceTree = "<group>"; };
+		2347A4FE2FE978AC00F3F5B5 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = MainWindow.xib; path = iPhone/MainWindow.xib; sourceTree = "<group>"; };
+		2347A4FF2FE978AC00F3F5B5 /* UntitledIpodViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = UntitledIpodViewController.xib; path = iPhone/UntitledIpodViewController.xib; sourceTree = "<group>"; };
+		2347A52E2FE9793700F3F5B5 /* README.MD */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.MD; sourceTree = "<group>"; };
+		23DAC69B2FE971D300E41E5D /* ShitCalc.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ShitCalc.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		23DAC6A82FE971E700E41E5D /* ShittyCalculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ShittyCalculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		23DAC6992FE971D300E41E5D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		23DAC6A62FE971E700E41E5D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		23DAC68B2FE971C000E41E5D = {
+			isa = PBXGroup;
+			children = (
+				23DAC6B82FE9722000E41E5D /* Classes */,
+				23DAC69C2FE971D300E41E5D /* Products */,
+				23DAC6BB2FE9724700E41E5D /* Resources */,
+				2347A52E2FE9793700F3F5B5 /* README.MD */,
+			);
+			sourceTree = "<group>";
+		};
+		23DAC69C2FE971D300E41E5D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				23DAC69B2FE971D300E41E5D /* ShitCalc.app */,
+				23DAC6A82FE971E700E41E5D /* ShittyCalculator.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		23DAC6B82FE9722000E41E5D /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				23DAC6E82FE9733200E41E5D /* Mac */,
+				23DAC6E72FE9732D00E41E5D /* iPhone */,
+				23DAC6E92FE9733700E41E5D /* Shared */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+		23DAC6BB2FE9724700E41E5D /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				23DAC6E62FE9731F00E41E5D /* Mac */,
+				23DAC6EA2FE9734200E41E5D /* iPhone */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		23DAC6E62FE9731F00E41E5D /* Mac */ = {
+			isa = PBXGroup;
+			children = (
+				2347A4F52FE9787B00F3F5B5 /* InfoPlist.strings */,
+				2347A4F62FE9787B00F3F5B5 /* MainMenu.nib */,
+				2347A4F72FE9787B00F3F5B5 /* MainMenu~.nib */,
+				2347A4E32FE9778E00F3F5B5 /* ShittyCalculator-Info.plist */,
+			);
+			name = Mac;
+			sourceTree = "<group>";
+		};
+		23DAC6E72FE9732D00E41E5D /* iPhone */ = {
+			isa = PBXGroup;
+			children = (
+				2347A4F32FE9785500F3F5B5 /* main.m */,
+				2347A4ED2FE9784E00F3F5B5 /* UntitledIpodAppDelegate.h */,
+				2347A4EE2FE9784E00F3F5B5 /* UntitledIpodAppDelegate.m */,
+				2347A4EF2FE9784E00F3F5B5 /* UntitledIpodViewController.h */,
+				2347A4F02FE9784E00F3F5B5 /* UntitledIpodViewController.m */,
+			);
+			name = iPhone;
+			sourceTree = "<group>";
+		};
+		23DAC6E82FE9733200E41E5D /* Mac */ = {
+			isa = PBXGroup;
+			children = (
+				2347A4FB2FE9789000F3F5B5 /* main.m */,
+			);
+			name = Mac;
+			sourceTree = "<group>";
+		};
+		23DAC6E92FE9733700E41E5D /* Shared */ = {
+			isa = PBXGroup;
+			children = (
+				2347A4E92FE977D900F3F5B5 /* CalculatorController.h */,
+				2347A4EA2FE977D900F3F5B5 /* CalculatorController.m */,
+			);
+			name = Shared;
+			sourceTree = "<group>";
+		};
+		23DAC6EA2FE9734200E41E5D /* iPhone */ = {
+			isa = PBXGroup;
+			children = (
+				2347A4FD2FE978AC00F3F5B5 /* Icon.png */,
+				2347A4FE2FE978AC00F3F5B5 /* MainWindow.xib */,
+				2347A4FF2FE978AC00F3F5B5 /* UntitledIpodViewController.xib */,
+				2347A4E52FE9779700F3F5B5 /* ShitCalc-Info.plist */,
+			);
+			name = iPhone;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		23DAC69A2FE971D300E41E5D /* ShitCalc */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 23DAC6A12FE971D400E41E5D /* Build configuration list for PBXNativeTarget "ShitCalc" */;
+			buildPhases = (
+				23DAC6972FE971D300E41E5D /* Resources */,
+				23DAC6982FE971D300E41E5D /* Sources */,
+				23DAC6992FE971D300E41E5D /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ShitCalc;
+			productName = ShitCalc;
+			productReference = 23DAC69B2FE971D300E41E5D /* ShitCalc.app */;
+			productType = "com.apple.product-type.application";
+		};
+		23DAC6A72FE971E700E41E5D /* ShittyCalculator */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 23DAC6AD2FE971E900E41E5D /* Build configuration list for PBXNativeTarget "ShittyCalculator" */;
+			buildPhases = (
+				23DAC6A42FE971E700E41E5D /* Resources */,
+				23DAC6A52FE971E700E41E5D /* Sources */,
+				23DAC6A62FE971E700E41E5D /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ShittyCalculator;
+			productName = ShittyCalculator;
+			productReference = 23DAC6A82FE971E700E41E5D /* ShittyCalculator.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		23DAC68D2FE971C000E41E5D /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 23DAC6902FE971C000E41E5D /* Build configuration list for PBXProject "UnifiedCalc" */;
+			compatibilityVersion = "Xcode 2.4";
+			hasScannedForEncodings = 0;
+			mainGroup = 23DAC68B2FE971C000E41E5D;
+			productRefGroup = 23DAC69C2FE971D300E41E5D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				23DAC69A2FE971D300E41E5D /* ShitCalc */,
+				23DAC6A72FE971E700E41E5D /* ShittyCalculator */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		23DAC6972FE971D300E41E5D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2347A5002FE978AC00F3F5B5 /* Icon.png in Resources */,
+				2347A5012FE978AC00F3F5B5 /* MainWindow.xib in Resources */,
+				2347A5022FE978AC00F3F5B5 /* UntitledIpodViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		23DAC6A42FE971E700E41E5D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2347A4F82FE9787B00F3F5B5 /* InfoPlist.strings in Resources */,
+				2347A4F92FE9787B00F3F5B5 /* MainMenu.nib in Resources */,
+				2347A4FA2FE9787B00F3F5B5 /* MainMenu~.nib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		23DAC6982FE971D300E41E5D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2347A4EB2FE977D900F3F5B5 /* CalculatorController.m in Sources */,
+				2347A4F12FE9784E00F3F5B5 /* UntitledIpodAppDelegate.m in Sources */,
+				2347A4F22FE9784E00F3F5B5 /* UntitledIpodViewController.m in Sources */,
+				2347A4F42FE9785500F3F5B5 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		23DAC6A52FE971E700E41E5D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2347A4EC2FE977D900F3F5B5 /* CalculatorController.m in Sources */,
+				2347A4FC2FE9789000F3F5B5 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		23DAC68E2FE971C000E41E5D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+			};
+			name = Debug;
+		};
+		23DAC68F2FE971C000E41E5D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+			};
+			name = Release;
+		};
+		23DAC69F2FE971D400E41E5D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "Don't Code Sign";
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = "ShitCalc-Info.plist";
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PREBINDING = NO;
+				PRODUCT_NAME = ShitCalc;
+				PROVISIONING_PROFILE = "";
+				SDKROOT = iphoneos3.1.3;
+			};
+			name = Debug;
+		};
+		23DAC6A02FE971D400E41E5D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/UIKit.framework/Headers/UIKit.h";
+				INFOPLIST_FILE = "ShitCalc-Info.plist";
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-framework",
+					Foundation,
+					"-framework",
+					UIKit,
+				);
+				PREBINDING = NO;
+				PRODUCT_NAME = ShitCalc;
+				SDKROOT = iphoneos3.1.3;
+				ZERO_LINK = NO;
+			};
+			name = Release;
+		};
+		23DAC6AB2FE971E800E41E5D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/AppKit.framework/Headers/AppKit.h";
+				INFOPLIST_FILE = "ShittyCalculator-Info.plist";
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-framework",
+					Foundation,
+					"-framework",
+					AppKit,
+				);
+				PREBINDING = NO;
+				PRODUCT_NAME = ShittyCalculator;
+			};
+			name = Debug;
+		};
+		23DAC6AC2FE971E800E41E5D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/AppKit.framework/Headers/AppKit.h";
+				INFOPLIST_FILE = "ShittyCalculator-Info.plist";
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-framework",
+					Foundation,
+					"-framework",
+					AppKit,
+				);
+				PREBINDING = NO;
+				PRODUCT_NAME = ShittyCalculator;
+				ZERO_LINK = NO;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		23DAC6902FE971C000E41E5D /* Build configuration list for PBXProject "UnifiedCalc" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				23DAC68E2FE971C000E41E5D /* Debug */,
+				23DAC68F2FE971C000E41E5D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		23DAC6A12FE971D400E41E5D /* Build configuration list for PBXNativeTarget "ShitCalc" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				23DAC69F2FE971D400E41E5D /* Debug */,
+				23DAC6A02FE971D400E41E5D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		23DAC6AD2FE971E900E41E5D /* Build configuration list for PBXNativeTarget "ShittyCalculator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				23DAC6AB2FE971E800E41E5D /* Debug */,
+				23DAC6AC2FE971E800E41E5D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 23DAC68D2FE971C000E41E5D /* Project object */;
+}

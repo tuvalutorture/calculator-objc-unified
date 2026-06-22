@@ -1,0 +1,773 @@
+// !$*UTF8*$!
+{
+	2347A4ED2FE9784E00F3F5B5 /* UntitledIpodAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 294}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 362}";
+		};
+	};
+	2347A4F32FE9785500F3F5B5 /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 252}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 366}";
+		};
+	};
+	2347A4F52FE9787B00F3F5B5 /* InfoPlist.strings */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1284, 253}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 304}";
+		};
+	};
+	2347A4FB2FE9789000F3F5B5 /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 253}}";
+			sepNavSelRange = "{198, 2}";
+			sepNavVisRange = "{0, 265}";
+		};
+	};
+	2347A5042FE978B700F3F5B5 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 2347A4E52FE9779700F3F5B5 /* ShitCalc-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/UNTITLED/UnifiedCalc/ShitCalc-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	2347A5052FE978B700F3F5B5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2347A4ED2FE9784E00F3F5B5 /* UntitledIpodAppDelegate.h */;
+		name = "UntitledIpodAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 362;
+		vrLoc = 0;
+	};
+	2347A5062FE978B700F3F5B5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2347A4F32FE9785500F3F5B5 /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 366;
+		vrLoc = 0;
+	};
+	2347A5072FE978B700F3F5B5 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 2347A4E32FE9778E00F3F5B5 /* ShittyCalculator-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/UNTITLED/UnifiedCalc/ShittyCalculator-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	2347A5082FE978B700F3F5B5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2347A4FB2FE9789000F3F5B5 /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 265;
+		vrLoc = 0;
+	};
+	2347A5092FE978B700F3F5B5 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 2347A4E32FE9778E00F3F5B5 /* ShittyCalculator-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/UNTITLED/UnifiedCalc/ShittyCalculator-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	2347A50A2FE978B700F3F5B5 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 2347A4E52FE9779700F3F5B5 /* ShitCalc-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/UNTITLED/UnifiedCalc/ShitCalc-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	2347A50B2FE978B700F3F5B5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2347A4ED2FE9784E00F3F5B5 /* UntitledIpodAppDelegate.h */;
+		name = "UntitledIpodAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 362;
+		vrLoc = 0;
+	};
+	2347A50C2FE978B700F3F5B5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2347A4F32FE9785500F3F5B5 /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 366;
+		vrLoc = 0;
+	};
+	2347A50D2FE978B700F3F5B5 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 2347A4E32FE9778E00F3F5B5 /* ShittyCalculator-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/UNTITLED/UnifiedCalc/ShittyCalculator-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	2347A50E2FE978B700F3F5B5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2347A4FB2FE9789000F3F5B5 /* main.m */;
+		name = "main.m: 11";
+		rLen = 2;
+		rLoc = 198;
+		rType = 0;
+		vrLen = 265;
+		vrLoc = 0;
+	};
+	2347A5222FE978EB00F3F5B5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2347A4FB2FE9789000F3F5B5 /* main.m */;
+		name = "main.m: 11";
+		rLen = 2;
+		rLoc = 198;
+		rType = 0;
+		vrLen = 265;
+		vrLoc = 0;
+	};
+	2347A5232FE978EB00F3F5B5 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 2347A4E52FE9779700F3F5B5 /* ShitCalc-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/UNTITLED/UnifiedCalc/ShitCalc-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	2347A5242FE978EB00F3F5B5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2347A4F52FE9787B00F3F5B5 /* InfoPlist.strings */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 304;
+		vrLoc = 0;
+	};
+	2347A5252FE978EB00F3F5B5 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 2347A4E32FE9778E00F3F5B5 /* ShittyCalculator-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/UNTITLED/UnifiedCalc/ShittyCalculator-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	2347A5262FE978EB00F3F5B5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2347A4FB2FE9789000F3F5B5 /* main.m */;
+		name = "main.m: 11";
+		rLen = 2;
+		rLoc = 198;
+		rType = 0;
+		vrLen = 265;
+		vrLoc = 0;
+	};
+	2347A5272FE978EB00F3F5B5 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 2347A4E52FE9779700F3F5B5 /* ShitCalc-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/UNTITLED/UnifiedCalc/ShitCalc-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	2347A5282FE978EB00F3F5B5 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 2347A4E32FE9778E00F3F5B5 /* ShittyCalculator-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/UNTITLED/UnifiedCalc/ShittyCalculator-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	2347A5292FE978EB00F3F5B5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2347A4F52FE9787B00F3F5B5 /* InfoPlist.strings */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 304;
+		vrLoc = 0;
+	};
+	2347A52A2FE978EB00F3F5B5 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 2347A4E32FE9778E00F3F5B5 /* ShittyCalculator-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/UNTITLED/UnifiedCalc/ShittyCalculator-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	2347A52D2FE9790300F3F5B5 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 2347A4E32FE9778E00F3F5B5 /* ShittyCalculator-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/UNTITLED/UnifiedCalc/ShittyCalculator-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	23DAC68D2FE971C000E41E5D /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 23DAC6A92FE971E700E41E5D /* ShittyCalculator */;
+		activeSDKPreference = macosx10.4;
+		activeTarget = 23DAC6A72FE971E700E41E5D /* ShittyCalculator */;
+		addToTargets = (
+		);
+		codeSenseManager = 23DAC6922FE971C000E41E5D /* Code sense */;
+		executables = (
+			23DAC69D2FE971D300E41E5D /* ShitCalc */,
+			23DAC6A92FE971E700E41E5D /* ShittyCalculator */,
+		);
+		ignoreBreakpointsInProjectsDict = {
+		};
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXBookmarksDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBookmarksDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					200,
+					151,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBookmarksDataSource_LocationID,
+					PBXBookmarksDataSource_NameID,
+					PBXBookmarksDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					301,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 803829057;
+			PBXWorkspaceStateSaveDate = 803829057;
+		};
+		perUserProjectItems = {
+			2347A5042FE978B700F3F5B5 /* PlistBookmark */ = 2347A5042FE978B700F3F5B5 /* PlistBookmark */;
+			2347A5052FE978B700F3F5B5 /* PBXTextBookmark */ = 2347A5052FE978B700F3F5B5 /* PBXTextBookmark */;
+			2347A5062FE978B700F3F5B5 /* PBXTextBookmark */ = 2347A5062FE978B700F3F5B5 /* PBXTextBookmark */;
+			2347A5072FE978B700F3F5B5 /* PlistBookmark */ = 2347A5072FE978B700F3F5B5 /* PlistBookmark */;
+			2347A5082FE978B700F3F5B5 /* PBXTextBookmark */ = 2347A5082FE978B700F3F5B5 /* PBXTextBookmark */;
+			2347A5092FE978B700F3F5B5 /* PlistBookmark */ = 2347A5092FE978B700F3F5B5 /* PlistBookmark */;
+			2347A50A2FE978B700F3F5B5 /* PlistBookmark */ = 2347A50A2FE978B700F3F5B5 /* PlistBookmark */;
+			2347A50B2FE978B700F3F5B5 /* PBXTextBookmark */ = 2347A50B2FE978B700F3F5B5 /* PBXTextBookmark */;
+			2347A50C2FE978B700F3F5B5 /* PBXTextBookmark */ = 2347A50C2FE978B700F3F5B5 /* PBXTextBookmark */;
+			2347A50D2FE978B700F3F5B5 /* PlistBookmark */ = 2347A50D2FE978B700F3F5B5 /* PlistBookmark */;
+			2347A50E2FE978B700F3F5B5 /* PBXTextBookmark */ = 2347A50E2FE978B700F3F5B5 /* PBXTextBookmark */;
+			2347A5222FE978EB00F3F5B5 /* PBXTextBookmark */ = 2347A5222FE978EB00F3F5B5 /* PBXTextBookmark */;
+			2347A5232FE978EB00F3F5B5 /* PlistBookmark */ = 2347A5232FE978EB00F3F5B5 /* PlistBookmark */;
+			2347A5242FE978EB00F3F5B5 /* PBXTextBookmark */ = 2347A5242FE978EB00F3F5B5 /* PBXTextBookmark */;
+			2347A5252FE978EB00F3F5B5 /* PlistBookmark */ = 2347A5252FE978EB00F3F5B5 /* PlistBookmark */;
+			2347A5262FE978EB00F3F5B5 /* PBXTextBookmark */ = 2347A5262FE978EB00F3F5B5 /* PBXTextBookmark */;
+			2347A5272FE978EB00F3F5B5 /* PlistBookmark */ = 2347A5272FE978EB00F3F5B5 /* PlistBookmark */;
+			2347A5282FE978EB00F3F5B5 /* PlistBookmark */ = 2347A5282FE978EB00F3F5B5 /* PlistBookmark */;
+			2347A5292FE978EB00F3F5B5 /* PBXTextBookmark */ = 2347A5292FE978EB00F3F5B5 /* PBXTextBookmark */;
+			2347A52A2FE978EB00F3F5B5 /* PlistBookmark */ = 2347A52A2FE978EB00F3F5B5 /* PlistBookmark */;
+			2347A52D2FE9790300F3F5B5 /* PlistBookmark */ = 2347A52D2FE9790300F3F5B5 /* PlistBookmark */;
+			23DAC6D12FE972D200E41E5D = 23DAC6D12FE972D200E41E5D /* PBXTextBookmark */;
+			23DAC6EB2FE9734B00E41E5D = 23DAC6EB2FE9734B00E41E5D /* PBXTextBookmark */;
+			23DAC6EC2FE9734B00E41E5D = 23DAC6EC2FE9734B00E41E5D /* PBXTextBookmark */;
+			23DAC6EF2FE9734B00E41E5D = 23DAC6EF2FE9734B00E41E5D /* PBXTextBookmark */;
+			23DAC6F02FE9734B00E41E5D = 23DAC6F02FE9734B00E41E5D /* PBXBookmark */;
+			23DAC6F12FE9734B00E41E5D = 23DAC6F12FE9734B00E41E5D /* PBXTextBookmark */;
+			23DAC6F22FE9734B00E41E5D = 23DAC6F22FE9734B00E41E5D /* PBXTextBookmark */;
+			23DAC6F32FE9734B00E41E5D = 23DAC6F32FE9734B00E41E5D /* PBXTextBookmark */;
+			23DAC6F42FE9734B00E41E5D = 23DAC6F42FE9734B00E41E5D /* PBXTextBookmark */;
+			23DAC6FB2FE973A100E41E5D = 23DAC6FB2FE973A100E41E5D /* PBXBookmark */;
+			23DAC6FE2FE973A100E41E5D = 23DAC6FE2FE973A100E41E5D /* PBXBookmark */;
+			23DAC6FF2FE973A100E41E5D = 23DAC6FF2FE973A100E41E5D /* PlistBookmark */;
+			23DAC7002FE973A100E41E5D = 23DAC7002FE973A100E41E5D /* PlistBookmark */;
+			23DAC7012FE973A100E41E5D = 23DAC7012FE973A100E41E5D /* PBXTextBookmark */;
+			23DAC7022FE973A100E41E5D = 23DAC7022FE973A100E41E5D /* PlistBookmark */;
+			23DAC72E2FE9746D00E41E5D = 23DAC72E2FE9746D00E41E5D /* PBXTextBookmark */;
+			23DAC7302FE9746D00E41E5D = 23DAC7302FE9746D00E41E5D /* PBXTextBookmark */;
+			23DAC74F2FE9753500E41E5D = 23DAC74F2FE9753500E41E5D /* PlistBookmark */;
+			23DAC7502FE9753500E41E5D = 23DAC7502FE9753500E41E5D /* PlistBookmark */;
+			23DAC7512FE9753500E41E5D = 23DAC7512FE9753500E41E5D /* PlistBookmark */;
+			23DAC7522FE9753500E41E5D = 23DAC7522FE9753500E41E5D /* PlistBookmark */;
+			23DAC7532FE9753500E41E5D = 23DAC7532FE9753500E41E5D /* PlistBookmark */;
+			23DAC7542FE9753500E41E5D = 23DAC7542FE9753500E41E5D /* PlistBookmark */;
+			23DAC7552FE9753500E41E5D = 23DAC7552FE9753500E41E5D /* PlistBookmark */;
+			23DAC7562FE9753500E41E5D = 23DAC7562FE9753500E41E5D /* PlistBookmark */;
+			23DAC7582FE9753500E41E5D = 23DAC7582FE9753500E41E5D /* PlistBookmark */;
+		};
+		sourceControlManager = 23DAC6912FE971C000E41E5D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	23DAC6912FE971C000E41E5D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	23DAC6922FE971C000E41E5D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	23DAC69A2FE971D300E41E5D /* ShitCalc */ = {
+		activeExec = 0;
+		executables = (
+			23DAC69D2FE971D300E41E5D /* ShitCalc */,
+		);
+	};
+	23DAC69D2FE971D300E41E5D /* ShitCalc */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ShitCalc;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	23DAC6A72FE971E700E41E5D /* ShittyCalculator */ = {
+		activeExec = 0;
+		executables = (
+			23DAC6A92FE971E700E41E5D /* ShittyCalculator */,
+		);
+	};
+	23DAC6A92FE971E700E41E5D /* ShittyCalculator */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ShittyCalculator;
+		sourceDirectories = (
+		);
+	};
+	23DAC6C42FE9727000E41E5D /* main.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = main.m;
+		path = /Volumes/UNTITLED/UntitledIpod/main.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 252}}";
+			sepNavSelRange = "{161, 0}";
+			sepNavVisRange = "{0, 366}";
+		};
+	};
+	23DAC6D12FE972D200E41E5D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 23DAC6C42FE9727000E41E5D /* main.m */;
+		name = "main.m: 10";
+		rLen = 0;
+		rLoc = 161;
+		rType = 0;
+		vrLen = 366;
+		vrLoc = 0;
+	};
+	23DAC6D52FE972E600E41E5D /* Icon.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = Icon.png;
+		path = /Volumes/UNTITLED/UntitledIpod/Icon.png;
+		sourceTree = "<absolute>";
+	};
+	23DAC6DB2FE9730C00E41E5D /* main.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = main.m;
+		path = /Volumes/UNTITLED/shittyCalculator/main.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 253}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 265}";
+		};
+	};
+	23DAC6DE2FE9731A00E41E5D /* English */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.plist.strings;
+		name = English;
+		path = /Volumes/UNTITLED/shittyCalculator/English.lproj/InfoPlist.strings;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1284, 230}}";
+			sepNavSelRange = "{304, 0}";
+			sepNavVisRange = "{0, 304}";
+		};
+	};
+	23DAC6EB2FE9734B00E41E5D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 23DAC6DB2FE9730C00E41E5D /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 265;
+		vrLoc = 0;
+	};
+	23DAC6EC2FE9734B00E41E5D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 23DAC6C42FE9727000E41E5D /* main.m */;
+		name = "main.m: 10";
+		rLen = 0;
+		rLoc = 161;
+		rType = 0;
+		vrLen = 366;
+		vrLoc = 0;
+	};
+	23DAC6EF2FE9734B00E41E5D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 23DAC6C42FE9727000E41E5D /* main.m */;
+		name = "main.m: 10";
+		rLen = 0;
+		rLoc = 161;
+		rType = 0;
+		vrLen = 366;
+		vrLoc = 0;
+	};
+	23DAC6F02FE9734B00E41E5D /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 23DAC6D52FE972E600E41E5D /* Icon.png */;
+	};
+	23DAC6F12FE9734B00E41E5D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 23DAC6DB2FE9730C00E41E5D /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 265;
+		vrLoc = 0;
+	};
+	23DAC6F22FE9734B00E41E5D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 23DAC6C42FE9727000E41E5D /* main.m */;
+		name = "main.m: 10";
+		rLen = 0;
+		rLoc = 161;
+		rType = 0;
+		vrLen = 366;
+		vrLoc = 0;
+	};
+	23DAC6F32FE9734B00E41E5D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 23DAC6DB2FE9730C00E41E5D /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 265;
+		vrLoc = 0;
+	};
+	23DAC6F42FE9734B00E41E5D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 23DAC6C42FE9727000E41E5D /* main.m */;
+		name = "main.m: 10";
+		rLen = 0;
+		rLoc = 161;
+		rType = 0;
+		vrLen = 366;
+		vrLoc = 0;
+	};
+	23DAC6F72FE9735B00E41E5D /* English */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.plist.xml;
+		name = English;
+		path = "/Volumes/UNTITLED/shittyCalculator/English.lproj/ShittyCalculator-Info.plist";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 63}, {1265, 995}}";
+		};
+	};
+	23DAC6FB2FE973A100E41E5D /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 23DAC6D52FE972E600E41E5D /* Icon.png */;
+	};
+	23DAC6FE2FE973A100E41E5D /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 23DAC6D52FE972E600E41E5D /* Icon.png */;
+	};
+	23DAC6FF2FE973A100E41E5D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 23DAC6F72FE9735B00E41E5D /* English */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Volumes/UNTITLED/shittyCalculator/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	23DAC7002FE973A100E41E5D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 23DAC6F72FE9735B00E41E5D /* English */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/UNTITLED/shittyCalculator/ShittyCalculator-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	23DAC7012FE973A100E41E5D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 23DAC6DE2FE9731A00E41E5D /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 304;
+		vrLoc = 0;
+	};
+	23DAC7022FE973A100E41E5D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 23DAC6F72FE9735B00E41E5D /* English */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/UNTITLED/shittyCalculator/ShittyCalculator-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	23DAC7282FE9743100E41E5D /* ShitCalc-Info.plist */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.plist.xml;
+		name = "ShitCalc-Info.plist";
+		path = "/Volumes/UNTITLED/UntitledIpod/ShitCalc-Info.plist";
+		sourceTree = "<absolute>";
+	};
+	23DAC72E2FE9746D00E41E5D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 23DAC6DE2FE9731A00E41E5D /* English */;
+		name = "InfoPlist.strings: 3";
+		rLen = 0;
+		rLoc = 304;
+		rType = 0;
+		vrLen = 304;
+		vrLoc = 0;
+	};
+	23DAC7302FE9746D00E41E5D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 23DAC6DE2FE9731A00E41E5D /* English */;
+		name = "InfoPlist.strings: 3";
+		rLen = 0;
+		rLoc = 304;
+		rType = 0;
+		vrLen = 304;
+		vrLoc = 0;
+	};
+	23DAC74F2FE9753500E41E5D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 23DAC6F72FE9735B00E41E5D /* English */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Volumes/UNTITLED/shittyCalculator/English.lproj/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	23DAC7502FE9753500E41E5D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 23DAC7282FE9743100E41E5D /* ShitCalc-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Volumes/UNTITLED/UntitledIpod/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	23DAC7512FE9753500E41E5D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 23DAC7282FE9743100E41E5D /* ShitCalc-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/UNTITLED/UntitledIpod/ShitCalc-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	23DAC7522FE9753500E41E5D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 23DAC6F72FE9735B00E41E5D /* English */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/UNTITLED/shittyCalculator/English.lproj/ShittyCalculator-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	23DAC7532FE9753500E41E5D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 23DAC7282FE9743100E41E5D /* ShitCalc-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/UNTITLED/UntitledIpod/ShitCalc-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	23DAC7542FE9753500E41E5D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 23DAC6F72FE9735B00E41E5D /* English */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Volumes/UNTITLED/shittyCalculator/English.lproj/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	23DAC7552FE9753500E41E5D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 23DAC7282FE9743100E41E5D /* ShitCalc-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Volumes/UNTITLED/UntitledIpod/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	23DAC7562FE9753500E41E5D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 23DAC6F72FE9735B00E41E5D /* English */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Volumes/UNTITLED/shittyCalculator/English.lproj/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	23DAC7582FE9753500E41E5D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 23DAC7282FE9743100E41E5D /* ShitCalc-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Volumes/UNTITLED/UntitledIpod/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+}
