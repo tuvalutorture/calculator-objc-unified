@@ -10,7 +10,9 @@ project is made on xcode 3.1 with 2.4 compatible settings
 compiles for both 10.4 and iPhoneOS 3.1.3
 
 go to hell, carolina
+
 <hr>
-old repos (not going to be maintained any more than this one is gonna be if i do maintain this one):    
-[mac (appkit)](https://github.com/tuvalutorture/calculator-objc)    
-[iphone/ipod touch](https://github.com/tuvalutorture/calculator-objc-iphone)    
+
+old repos (not going to be maintained any more than this one is gonna be if i do maintain this one):<br>
+[mac (appkit)](https://github.com/tuvalutorture/calculator-objc)<br>
+[iphone/ipod touch](https://github.com/tuvalutorture/calculator-objc-iphone)<br>
